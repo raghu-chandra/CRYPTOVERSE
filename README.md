@@ -8,7 +8,7 @@ Cryptoverse is a responsive and interactive web application that provides real-t
 - Crypto coin details including historical data with charts
 - Latest crypto news updates
 - Fully responsive UI with Ant Design
-- Deployed on [netlify] [(https://stately-snickerdoodle-320b62.netlify.app/)]
+- Deployed on [netlify] (https://stately-snickerdoodle-320b62.netlify.app/)
 # Tech Stack
 - Frontend: React.js, Ant Design, Redux Toolkit, Chart.js
 - Data APIs: Coingecko API && Coinranking API && RapidAPI Crypto News
